@@ -1,0 +1,9 @@
+name: SkyWars
+main: EQUINE\SkyWars\Main
+author: NintendoCore and ClembArcade edited by EQUINE
+version: SpaceCraft
+api: [3.0.0-ALPHA12]
+
+commands:
+  sw:
+    description: "Comando principal de SkyWars"
